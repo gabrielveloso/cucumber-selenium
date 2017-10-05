@@ -1,6 +1,6 @@
-#Aula de Cucumber + selenium
+# Aula de Cucumber + selenium
 
-##conceito de testes funcionais:
+## CONCEITO DE TESTES FUNCIONAIS
 
 O teste funcional
 O teste funcional também é conhecido como teste da caixa-preta, sendo usado para entender como o sistema se comportaria durante a navegação de um usuário. Especialmente se ele usasse dados de entrada diferentes dos especificados pelo programa, como um preenchimento incorreto num cadastro. Nesse caso, verifica-se se o software avisa o usuário ou se aceita o erro, se dá falha e por aí vai.
@@ -15,7 +15,7 @@ Quanto mais informações e dados de entrada o testador puder avaliar, melhor as
 ## BOA REFERÊNCIA
 https://henriqueluz.com.br/2015/01/18/automatizando-testes-funcionais-com-selenium-cucumber/
 
-## observer a piramide de testes
+## OBSERVAR A PIRÂMIDADE DE TESTES
 https://martinfowler.com/bliki/TestPyramid.html
 
 
